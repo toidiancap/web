@@ -1,0 +1,86 @@
+.container {
+    width: 1678px;
+    height: 1000px;
+    border: 0px;
+
+}
+
+.khoangtrong {
+    width: 1000px;
+    height: 500px;
+    border: 0;
+}
+
+.Title {
+    font-family: Arial;
+    width: 1678px;
+    height: 10px;
+    border: 0px;
+    text-align: center;
+
+}
+
+.longBox {
+    width: 130px;
+    height: 40px;
+    border-bottom: 5px solid black;
+    margin: 0px 0px 0px 772px;
+
+
+}
+
+.Boxmainpro {
+    width: 1678px;
+    height: 40px;
+    margin: 245px 0px 0px 0px;
+    flex-wrap: wrap;
+    display: flex;
+
+
+}
+
+.Box {
+    width: 418px;
+    border: 0px;
+    background-color: whitesmoke;
+
+}
+
+.Boxone {
+    width: 418px;
+    border: 0px;
+    background-color: darkgray;
+
+}
+
+.Boxtwo {
+    width: 418px;
+    border: 0px;
+    background-color: dimgray;
+    color: white;
+
+}
+
+.Boxthree {
+    width: 418px;
+    border: 0px;
+    background-color: black;
+    color: white;
+
+}
+
+h3 {
+
+    font-family: Arial;
+    font-weight: bold;
+}
+
+p {
+
+    font-family: Arial;
+    margin: 0px 0px 45px 0px;
+}
+
+
+
+
